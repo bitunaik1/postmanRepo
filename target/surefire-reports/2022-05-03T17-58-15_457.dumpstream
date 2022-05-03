@@ -1,0 +1,5 @@
+# Created at 2022-05-03T17:58:29.980
+Boot Manifest-JAR contains absolute paths in classpath 'E:\SundayPractice\com.autodesk.testyantra1\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

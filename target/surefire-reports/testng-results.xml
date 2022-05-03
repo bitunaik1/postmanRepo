@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.autodesk.testyantra1.practice.LinksTextboxDrodowntest" duration-ms="54474" started-at="2022-05-03T18:30:44 IST" finished-at="2022-05-03T18:31:39 IST">
+    <groups>
+      <group name="Regression">
+        <method signature="LinksTextboxDrodowntest.m1()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="m1" class="com.autodesk.testyantra1.practice.LinksTextboxDrodowntest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Command line test" duration-ms="54474" started-at="2022-05-03T18:30:44 IST" finished-at="2022-05-03T18:31:39 IST">
+      <class name="com.autodesk.testyantra1.practice.LinksTextboxDrodowntest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="beforeSuite" is-config="true" duration-ms="32" started-at="2022-05-03T18:30:44 IST" finished-at="2022-05-03T18:30:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="beforeTest" is-config="true" duration-ms="0" started-at="2022-05-03T18:30:44 IST" finished-at="2022-05-03T18:30:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="beforeClass" is-config="true" duration-ms="6237" started-at="2022-05-03T18:30:44 IST" finished-at="2022-05-03T18:30:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="beforeMethod" is-config="true" duration-ms="7292" started-at="2022-05-03T18:30:51 IST" finished-at="2022-05-03T18:30:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="m1" duration-ms="39969" started-at="2022-05-03T18:30:58 IST" finished-at="2022-05-03T18:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="afterClass" is-config="true" duration-ms="897" started-at="2022-05-03T18:31:38 IST" finished-at="2022-05-03T18:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2022-05-03T18:31:38 IST" finished-at="2022-05-03T18:31:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="afterTest" is-config="true" duration-ms="0" started-at="2022-05-03T18:31:39 IST" finished-at="2022-05-03T18:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.autodesk.testyantra1.practice.LinksTextboxDrodowntest@4973813a]" name="afterSuite" is-config="true" duration-ms="0" started-at="2022-05-03T18:31:39 IST" finished-at="2022-05-03T18:31:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.autodesk.testyantra1.practice.LinksTextboxDrodowntest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.autodesk.testyantra1.practice.LinksTextboxDrodowntest -->
+</testng-results>
